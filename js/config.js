@@ -50,6 +50,6 @@ window.WEDDING_CONFIG = {
   /* ── RSVP → GOOGLE SHEETS ────────────────────────────────────
      Paste your Google Apps Script Web App URL here (same one the
      original site used). RSVPs are posted to it as JSON.          */
-  sheetsUrl: 'https://script.google.com/macros/s/AKfycbyNiLnZbY2Xdw6lS4f_19eTjh8GWKTZPIAANYT2HDRxfEz-7YihUCVE50ALrVxh2b_DpQ/exec',
+  sheetsUrl: 'https://script.google.com/macros/s/AKfycbyx_sfINeRWs_4-1cIRgnVBlB6STptNF_5gQpcquGyMSIbOJwGlMNmxPdjVB0F775Q_/exec',
 
 };
